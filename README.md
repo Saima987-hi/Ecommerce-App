@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # flutter_application_10
 
@@ -18,3 +19,6 @@ samples, guidance on mobile development, and a full API reference.
 =======
 # Ecommerce-App
 
+=======
+# Ecommerce-App
+>>>>>>> 7d50c67898927d9bc1543d4e8711cc7f946e0773
